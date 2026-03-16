@@ -10,11 +10,8 @@
 
 ## 👨‍💻 About Me
 
-💡 Passionate about **Android Development, Software Engineering, and Machine Learning**  
-
-- 📱 Building modern Android apps using **Kotlin & Jetpack Compose**
-- 🤖 Exploring **Machine Learning & Data Analysis**
-- 🧠 Strong foundation in **Data Structures and Algorithms**
+Android Application Developer with hands-on experience in real-time applications, structuring, and performance- focused
+development.
 
 ---
 
