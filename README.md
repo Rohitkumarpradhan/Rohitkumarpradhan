@@ -3,7 +3,7 @@
 🚀 **Android Development Enthusiast | Kotlin | Jetpack Compose | Problem Solving**
 
 📍 Bhubaneswar, India  
-🎓 B.Tech CSE @ C. V. Raman Global University  
+🎓 B.Tech CSE @ C. V. Raman Global University 
 
 
 ---
@@ -13,7 +13,7 @@
 Android Application Developer with hands-on experience in real-time applications, structuring, and performance- focused
 development.
 
----
+----
 
 ## 🛠️ Tech Stack
 
