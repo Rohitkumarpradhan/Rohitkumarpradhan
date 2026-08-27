@@ -162,16 +162,16 @@ Alongside development, I practice **Data Structures & Algorithms** because stron
 
 <div align="center">
 
-<a href="#">
+<a href="https://www.linkedin.com/in/rohit-kumar-pradhan-b03b6732a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Rohitkumarpradhan">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="#">
+<a href="https://x.com/rohitkumar7854">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="#">
+<a href="https://rohit-hub.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=CodeIgniter&logoColor=white" alt="Portfolio"/>
 </a>
 
