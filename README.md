@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rohit%20Kumar%20Pradhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Android+Developer+%F0%9F%93%B1;Backend+%7C+AWS+Cloud+%7C+Java;DSA+%7C+Open+Source;Always+learning.+Always+building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Android+Developer+%F0%9F%93%B1;Backend+%7C+AWS+Cloud+%7C+Java;DSA+%7C+Open+Source;Always+learning.+Always+building." alt="Typing SVG"/>
 
 <br/>
 </div>
@@ -11,7 +11,7 @@ Hi, I'm **Rohit**, a Computer Science Engineering student passionate about build
 
 I work across the stack, from crafting clean and intuitive native mobile interfaces to designing backend systems, APIs, and cloud infrastructure. I'm actively building with **Kotlin, Jetpack Compose, Java, and AWS**, integrating them to create practical and scalable solutions. 
 
-Alongside development, I regularly practice **Data Structures & Algorithms** because strong engineering starts with strong fundamentals.
+Alongside development, I practice **Data Structures & Algorithms** because strong engineering starts with strong fundamentals.
 
 ---
 
@@ -158,7 +158,7 @@ Alongside development, I regularly practice **Data Structures & Algorithms** bec
 <br/>
 
 ### 🤝 Connect With Me
----
+
 
 <div align="center">
 
