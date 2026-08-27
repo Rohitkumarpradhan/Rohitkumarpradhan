@@ -1,166 +1,185 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Rohit%20Kumar%20Pradhan&fontSize=42&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rohit%20Kumar%20Pradhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Android+Developer+%F0%9F%93%B1;Backend+%7C+AWS+Cloud+%7C+Java;DSA+%7C+Open+Source;Always+learning.+Always+building." alt="Typing SVG"/>
 
 <br/>
-
-<a href="https://github.com/Rohitkumarpradhan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<i>Building things. Solving problems. Learning continuously.</i>
-
 </div>
 
----
+Hi, I'm **Rohit**, a Computer Science Engineering student passionate about building impactful applications from the ground up. 
 
-## 👋 About Me
+I work across the stack, from crafting clean and intuitive native mobile interfaces to designing backend systems, APIs, and cloud infrastructure. I'm actively building with **Kotlin, Jetpack Compose, Java, and AWS**, integrating them to create practical and scalable solutions. 
 
-I'm **Rohit**, a Computer Science Engineering student who enjoys turning ideas into software.
-
-My main interests are **Android development, software engineering, DSA, open source and machine learning**.
-
-```text
-Currently → Building Android & software projects
-Learning  → DSA • System Design • Open Source
-Exploring → Machine Learning • Web Development
-Goal      → Build useful software and keep getting better
-```
+Alongside development, I regularly practice **Data Structures & Algorithms** because strong engineering starts with strong fundamentals.
 
 ---
 
-## ⚡ Tech I Work With
+### 💡 What I Do
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,c,sql,androidstudio,git,github,firebase,nextjs,react,tailwind&perline=7" />
-
-</div>
-
----
-
-## 🚀 Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Calculator
-
-**Kotlin · Jetpack Compose**
-
-A modern calculator application with operator precedence, percentage calculations, sign handling and a clean Compose UI.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📸 ShutterSnap
-
-**Next.js · Tailwind · Cloudinary**
-
-A photography portfolio with dynamic collections, image delivery and a clean visual-focused interface.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Multi-Object Tracking
-
-**C++ · Python · Kalman Filter**
-
-A tracking pipeline combining Kalman filtering and the Hungarian algorithm to handle noisy object trajectories.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏦 Bank Marketing Prediction
-
-**Python · Random Forest**
-
-A machine-learning project for predicting bank marketing campaign outcomes.
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Android Development</h4>
+      <p>Building modern, responsive, and native mobile applications with clean architecture.</p>
+      <b>Focus:</b><br/>
+      <code>Kotlin</code> • <code>Jetpack Compose</code> • <code>Android Studio</code> • <code>Material Design</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend Engineering</h4>
+      <p>Designing scalable backend systems, robust APIs, and managing reliable databases.</p>
+      <b>Focus:</b><br/>
+      <code>Java</code> • <code>REST APIs</code> • <code>MySQL</code> • <code>PostgreSQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud & DevOps</h4>
+      <p>Working with cloud infrastructure, containerization, and backend deployment.</p>
+      <b>Focus:</b><br/>
+      <code>AWS</code> • <code>Firebase</code> • <code>Docker</code> • <code>Linux</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Problem Solving</h4>
+      <p>Regularly solving complex algorithmic challenges to strengthen logical thinking.</p>
+      <b>Focus:</b><br/>
+      <code>Data Structures</code> • <code>Algorithms</code> • <code>Optimization</code> • <code>C++</code>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📈 GitHub Activity
+### 💼 Experience
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 Defence Research & Development Organisation (DRDO)</h4>
+      <b>Summer Intern</b>
+      <p>Worked on technical projects involving advanced engineering concepts, focusing on system optimization, backend architecture, and problem-solving.</p>
+      <b>Focus:</b><br/>
+      <code>⚙️ System Architecture</code> • <code>🧠 R&D</code> • <code>💻 Backend Dev</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Open Source Contributions</h4>
+      <b>Active Contributor</b>
+      <p>Regularly contributing to various open-source repositories to build better tools for the developer community and improve software reliability.</p>
+      <b>Focus:</b><br/>
+      <code>📱 Android</code> • <code>🛠️ Bug Squashing</code> • <code>🤝 Collaboration</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Tech Stack & Tools
 
 <div align="center">
 
-<a href="https://github.com/Rohitkumarpradhan">
-<img src="https://github-readme-stats.vercel.app/api?username=Rohitkumarpradhan&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%" />
-</a>
+**📝 Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,c,sql" alt="Languages"/>
 
-<a href="https://github.com/Rohitkumarpradhan">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkumarpradhan&layout=compact&hide_border=true&theme=transparent" width="40%" />
-</a>
+<br/><br/>
+
+**📱 Android & Backend**<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase" alt="Android & Backend"/>
+
+<br/><br/>
+
+**☁️ Cloud & AWS**<br/>
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>&nbsp;&nbsp;
+<br/><br/>
+
+**🔧 Tools & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio,postman" alt="Tools"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+### 🚀 Works
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 CalciPlus</h4>
+      <p>A modern calculator application built from scratch with a focus on clean UI and correct mathematical behaviour.</p>
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" height="28" alt="Tech Stack"/>
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"/>
+      <br/><br/>
+      <a href="https://github.com/Rohitkumarpradhan"><b>VIEW PROJECT ↗</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 PaySphere</h4>
+      <p>A modern fintech application ui built from scratch with Jetpack Compose ..</p>
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" height="28" alt="Tech Stack"/>
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"/>
+      <br/><br/>
+      <a href="https://github.com/Rohitkumarpradhan"><b>VIEW PROJECT ↗</b></a>
+    </td>
+  
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏦 Bank Marketing Prediction</h4>
+      <p>A machine-learning project that predicts customer responses to bank marketing campaigns.</p>
+      <img src="https://skillicons.dev/icons?i=python,sklearn" height="28" alt="Tech Stack"/>
+      <br/><br/>
+      <a href="https://github.com/Rohitkumarpradhan"><b>VIEW PROJECT ↗</b></a>
+    </td>
+      <td width="50%" valign="top">
+      <h4>📸 ShutterSnap</h4>
+      <p>A photography portfolio built around dynamic galleries and a visual-first browsing experience.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,firebase" height="28" alt="Tech Stack"/>
+      <br/><br/>
+      <a href="https://github.com/Rohitkumarpradhan"><b>VIEW PROJECT ↗</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 GitHub Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohitkumarpradhan/Rohitkumarpradhan/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohitkumarpradhan/Rohitkumarpradhan/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Rohitkumarpradhan/Rohitkumarpradhan/output/github-snake.svg" width="95%">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rohitkumarpradhan/Rohitkumarpradhan/output/github-snake.svg" width="98%"> 
 </picture>
 
 </div>
 
 ---
 
-## 🧠 What I'm Focused On
 
-<table align="center">
-<tr>
-<td align="center">📱<br/><b>Android</b><br/>Jetpack Compose</td>
-<td align="center">🧩<br/><b>DSA</b><br/>Problem Solving</td>
-<td align="center">🌐<br/><b>Open Source</b><br/>Contributions</td>
-<td align="center">🤖<br/><b>ML</b><br/>Experimentation</td>
-</tr>
-</table>
+<br/>
 
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-[![Rohit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohitkumarpradhan\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/Rohitkumarpradhan)
-
-</div>
-
+### 🤝 Connect With Me
 ---
 
 <div align="center">
 
-### Let's build something interesting.
-
-<a href="https://github.com/Rohitkumarpradhan">GitHub</a>
-  •   <a href="https://www.linkedin.com/">LinkedIn</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Rohitkumarpradhan">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=CodeIgniter&logoColor=white" alt="Portfolio"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rohitkumarpradhan&style=flat-square&label=Profile%20Views"/>
+⭐ **Focousing . Learning . Building**
 
-<br/><br/>
+<br/>
 
-<sub>Made with curiosity & code.</sub>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </div>
